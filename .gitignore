@@ -1,0 +1,26 @@
+# Created by https://www.toptal.com/developers/gitignore/api/swiftpm
+# Edit at https://www.toptal.com/developers/gitignore?templates=swiftpm
+
+### SwiftPM ###
+Packages
+.build/
+xcuserdata
+DerivedData/
+.xcodeproj
+
+### VisualStudioCode ###
+.vscode/
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+
+# End of https://www.toptal.com/developers/gitignore/api/swiftpm
